@@ -1,2 +1,3 @@
 # n-est-tuning-effects-kushan-sandunil
 This code was design as a part of a research where effects of "n_estimators" of random forest regression was investigated when predicting porosity.
+Four codes were developed. Jupyter notebook files of the three codes have been uploaded. In "Code -1", only the "n_estimators" was tuned, in "Code - 2", "n_estimators" was tuned along with max_features, in "Code - 3" n_estimaors were tuned along with min_samples_leaf and in "Code - 4" all three hyperparameter were tuned to investigate the effects. Code consists of four main stages, reading data, data distribution check, model development and model evaluation. Under model development, hyperparameter tuning was carried out.
